@@ -1,0 +1,6 @@
+D:\ASPMVC\hipl_test3\HIPL_TEST3\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe.config
+D:\ASPMVC\hipl_test3\HIPL_TEST3\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe
+D:\ASPMVC\hipl_test3\HIPL_TEST3\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.pdb
+D:\ASPMVC\hipl_test3\HIPL_TEST3\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.csprojResolveAssemblyReference.cache
+D:\ASPMVC\hipl_test3\HIPL_TEST3\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.exe
+D:\ASPMVC\hipl_test3\HIPL_TEST3\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\MyFirstConsoleApp.pdb
